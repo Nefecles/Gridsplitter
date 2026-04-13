@@ -1,0 +1,5 @@
+{
+  "name": "GridSplitter - 拼图九宫格切图工具",
+  "description": "一个简单易用的在线工具，可以将九宫格图片或任何拼图快速拆分成单张图片。支持批量上传、自定义行列切割，并可一键打包下载压缩包。",
+  "requestFramePermissions": []
+}
