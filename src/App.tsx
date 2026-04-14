@@ -373,7 +373,7 @@ export default function App() {
               </TabsTrigger>
               <TabsTrigger value="merge" className="rounded-xl data-[state=active]:bg-white data-[state=active]:shadow-sm flex items-center gap-2">
                 <Grid3X3 className="w-4 h-4" />
-                拼图合并
+                图片拼合
               </TabsTrigger>
             </TabsList>
           </div>
