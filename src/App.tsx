@@ -845,7 +845,7 @@ export default function App() {
                     <h3 className="text-lg font-semibold flex items-center gap-2">
                       素材排序
                       <Badge variant="outline">{mergeImages.length}</Badge>
-                      <span className="text-xs font-normal text-muted-foreground ml-2 flex items-center gap-1">
+                      <span className="text-sm font-normal text-muted-foreground ml-2 flex items-center gap-1">
                         <ArrowRightLeft className="w-3 h-3" />
                         拖动调整顺序（默认按文件名排序）
                       </span>
